@@ -1,2 +1,2 @@
 # BivLT
-estimation of bivariate finite mixture model with selection
+Estimation of bivariate finite mixture model with selection
